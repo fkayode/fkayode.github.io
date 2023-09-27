@@ -1,0 +1,39 @@
+#toolbar{
+  border: solid pink;
+   
+}
+
+#navigation{
+  /* border: solid black; */
+  /* justify-content: space-around; */
+}
+
+#content{
+    /* border: solid grey; */
+
+    /* background-color: lightgray; */
+    /* display:flex; */
+    align-items: center;
+  justify-content: center;
+    /* height: 200px; */
+}
+
+
+#posts{
+  /* border: solid grey; */
+
+  /* background-color: lightgray; */
+}
+
+.post{
+  /* background-color: pink; */
+}
+.flex-container {
+    display: flex;
+    /* background-color: #f1f1f1; */
+    margin: 10px;
+    padding: 10px;
+    font-size: 20px;
+    align-items: center;
+  justify-content: space-around;
+  }
